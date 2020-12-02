@@ -1,0 +1,20 @@
+<svg id="free" xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #46c995;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 18px;
+        fill: #fff;
+        font-family: Montserrat;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M148,2277V2157H268" transform="translate(-148 -2157)"/>
+  <text id="Sale" class="cls-2" transform="translate(26.267 62.04) rotate(-45)">Sale</text>
+</svg>
